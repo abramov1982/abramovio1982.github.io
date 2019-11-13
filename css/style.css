@@ -661,14 +661,14 @@ footer > p {
 		width: 99%;
 		margin-bottom: 40px;
 	}
-	.input-form {
+	.input-form [name=text] {
 		width: 100%;
 		margin-bottom: 10px;
 	}
 	.input-form > * {
 		margin-bottom: 20px;
 	}
-	.input-form textarea[name=text] {
+	.input-form textarea {
 		margin-bottom: 10px;
 	}
 	.address {
